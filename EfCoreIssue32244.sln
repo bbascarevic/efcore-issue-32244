@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreIssue32244", "EfCoreIssue32244\EfCoreIssue32244.csproj", "{13F33743-D037-4B53-A24B-20E4B31D2CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreIssue32244.ConsoleRunner", "EfCoreIssue32244.ConsoleRunner\EfCoreIssue32244.ConsoleRunner.csproj", "{34103785-3466-4C9C-BFAC-64FFE9C25651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F33743-D037-4B53-A24B-20E4B31D2CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F33743-D037-4B53-A24B-20E4B31D2CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F33743-D037-4B53-A24B-20E4B31D2CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F33743-D037-4B53-A24B-20E4B31D2CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34103785-3466-4C9C-BFAC-64FFE9C25651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34103785-3466-4C9C-BFAC-64FFE9C25651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34103785-3466-4C9C-BFAC-64FFE9C25651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34103785-3466-4C9C-BFAC-64FFE9C25651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
